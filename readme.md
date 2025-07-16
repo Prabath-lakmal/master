@@ -1,3 +1,3 @@
-# hellow everyone, welcometo my git 
+# hellow everyone, wel come to my git 
 
 -hi jsm here
